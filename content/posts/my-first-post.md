@@ -14,3 +14,5 @@ Morbi cursus, ligula non scelerisque faucibus, velit elit sodales nibh, et variu
 
 ### New image test
 ![image](/images/test.png)
+![image2](/posts/test.png)
+{{< figure src="/images/test.png" title="Hugo" >}}
